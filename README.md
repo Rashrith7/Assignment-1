@@ -1,2 +1,2 @@
 # Assignment-1
-HTML 
+Duty Leave letter using basic HTML and CSS
